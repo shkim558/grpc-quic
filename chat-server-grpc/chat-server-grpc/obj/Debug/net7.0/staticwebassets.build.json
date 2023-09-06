@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PBPGKI8pDCzKax7uY6WaTgcuH3je+aO3rOTYvQMCHrE=",
+  "Source": "chat_server_grpc",
+  "BasePath": "_content/chat_server_grpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
